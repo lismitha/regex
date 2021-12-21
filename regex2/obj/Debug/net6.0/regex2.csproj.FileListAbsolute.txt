@@ -1,0 +1,15 @@
+D:\regex1\regex2\bin\Debug\net6.0\regex2.exe
+D:\regex1\regex2\bin\Debug\net6.0\regex2.deps.json
+D:\regex1\regex2\bin\Debug\net6.0\regex2.runtimeconfig.json
+D:\regex1\regex2\bin\Debug\net6.0\regex2.dll
+D:\regex1\regex2\bin\Debug\net6.0\ref\regex2.dll
+D:\regex1\regex2\bin\Debug\net6.0\regex2.pdb
+D:\regex1\regex2\obj\Debug\net6.0\regex2.csproj.AssemblyReference.cache
+D:\regex1\regex2\obj\Debug\net6.0\regex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\regex1\regex2\obj\Debug\net6.0\regex2.AssemblyInfoInputs.cache
+D:\regex1\regex2\obj\Debug\net6.0\regex2.AssemblyInfo.cs
+D:\regex1\regex2\obj\Debug\net6.0\regex2.csproj.CoreCompileInputs.cache
+D:\regex1\regex2\obj\Debug\net6.0\regex2.dll
+D:\regex1\regex2\obj\Debug\net6.0\ref\regex2.dll
+D:\regex1\regex2\obj\Debug\net6.0\regex2.pdb
+D:\regex1\regex2\obj\Debug\net6.0\regex2.genruntimeconfig.cache
